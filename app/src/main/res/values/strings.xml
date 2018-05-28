@@ -3,4 +3,55 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="courses">Courses</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="course">COURSE</string>
+    <string name="java">Java</string>
+    <string name="description">Description</string>
+    <string name="the_course_helps_you_as_a_beginner_to_understand_the_basics_of_java_as_a_programming_language">The course helps you as a beginner to understand the basics of Java as a proramming language...</string>
+    <string name="_5">5%</string>
+    <string name="sign_up">Sign up</string>
+    <string name="forgot">Forgot password</string>
+    <string name="account">Don\'t have an account,</string>
+    <string name="sign">Sign in</string>
+    <string name="username">Enter your email address</string>
+    <string name="your_username">Enter your username</string>
+    <string name="next">Next</string>
+    <string name="what_do_you_think_about_this_course">What do you think about this course?</string>
+    <string name="very_good">Very Good</string>
+    <string name="good">Good</string>
+    <string name="normal">Normal</string>
+    <string name="bad">Bad</string>
+    <string name="next_pager">Next</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="know">I don\'t know</string>
+    <string name="i_m_not_sure">I\'m not sure</string>
+    <string name="ggde">Have you taken this course before?</string>
+    <string name="finish">Finish</string>
+    <string name="i_don_t_know">I don\'t know</string>
+    <string name="do_you_think_you_ll_enjoy_this_course">Do you think you\'ll enjoy this course?</string>
+    <string name="what_is_this_course_about">What is this course about?</string>
+    <string name="java_description_course_page">This course is designed to help beginners in java who don\'t know what to do.
+        It covers the main basics in java with topics like:</string>
+    <string name="list_name">List of lectures you\'ll take in this course are:</string>
+    <string name="list_of_courses">
+        * Introduction of Java and its origin
+        *How to download a Java compiler on your system
+        *Keywords in java
+        *Data types and variables in java and so much more....
+        So just sit down, relax, pay attention and get the best you can out of this course</string>
+    <string name="title_activity_courses_list">CoursesList</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="lecture_1">Lecture 1</string>
+    <string name="lecture_4">Lecture 4</string>
+    <string name="lecture_3">Lecture 3</string>
+    <string name="lecture_2">Lecture 2</string>
+    <string name="about_instructor">About Instructor</string>
+    <string name="pre_survey">Pre-survey</string>
+    <string name="post_survey">Post-survey</string>
 </resources>
